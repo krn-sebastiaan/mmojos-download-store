@@ -1,3 +1,23 @@
 <?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?>
 <?xml-stylesheet type="text/xsl" href="mojos.xsl"?>
-<registry/>
+<registry>
+	<mojo>
+		<name>curl</name>
+		<version>0.0.0+20230425-1327</version>
+		<file>curl/curl-0.0.0+20230425-1327.jar</file>
+		<product name="curl" version="0.0.0+20230425-1327"/>
+	</mojo>
+	<mojo>
+		<name>geojson</name>
+		<version>0.0.0+20210312-0812</version>
+		<file>geojson/geojson-0.0.0+20210312-0812.jar</file>
+		<product name="geojson" version="0.0.0+20210312-0812"/>
+	</mojo>
+	<mojo>
+		<name>munit</name>
+		<version>5.3.3</version>
+		<url>https://github.com/krn-sebastiaan/munit/releases/tag/external-5.3.3-PB/munit-5.3.3.jar</url>
+		<description>MUnit product</description>
+		<product name="munit" version="5.3.3"/>
+	</mojo>
+</registry>
