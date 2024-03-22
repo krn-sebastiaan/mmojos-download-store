@@ -16,7 +16,7 @@
 	<mojo>
 		<name>munit</name>
 		<version>5.3.3</version>
-		<url>https://github.com/krn-sebastiaan/munit/releases/tag/external-5.3.3-PB/munit-5.3.3.jar</url>
+		<url>https://github.com/krn-sebastiaan/munit/releases/download/external-5.3.3-PB/munit-5.3.3.jar</url>
 		<description>MUnit product</description>
 		<product name="munit" version="5.3.3"/>
 	</mojo>
